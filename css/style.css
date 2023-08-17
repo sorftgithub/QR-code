@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background-color: hsl(213, 21%, 92%);
+    font-family: 'Outfit', sans-serif;
+}
+.outer-wrap {
+    background-color: white;
+    margin: 30px;
+    width: 375px;
+    border-radius: 20px;
+}
+.photo {
+    width: 100%;
+    margin: 20px;
+}
+img {
+    width: 340px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.text-1 {
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0 90px;
+    text-align: center;
+    opacity: 0.7;
+}
+.text-2 {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(213, 7%, 75%);
+    text-align: center;
+    margin: 0 55px;
+    padding-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
